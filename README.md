@@ -7,8 +7,8 @@ I'm the founder and a software engineer at [OakTree Apps](https://www.oaktreeapp
 - 💬 Ask us about our work in [Flutter](https://flutter.dev), [Dart](https://dart.dev), [Adonis](https://adonisjs.com/), [Mongo](https://www.mongodb.com/) etc.
 
 
-### Github Stats
+<!-- ### Github Stats
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=pkhivesara&count_private=true&theme=default&show_icons=true)](https://github.com/pkhivesara)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhivesara&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhivesara&layout=compact) -->
