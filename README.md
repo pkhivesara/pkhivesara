@@ -12,6 +12,6 @@ I'm the founder and a software engineer at [OakTree Apps](https://www.oaktreeapp
 <!-- [![My Github Stats](https://github-readme-stats.vercel.app/api?username=pkhivesara&count_private=true&theme=default&show_icons=true)](https://github.com/pkhivesara)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhivesara&layout=compact) -->
-![pkhivesara's GitHub stats](https://github-readme-stats-nvb1p0xxx-oaktreeapps.vercel.app/api?username=pkhivesara&count_private=true&show_icons=true)
+![pkhivesara's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkhivesara&count_private=true&show_icons=true)
 
 
