@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm the founder and a software engineer at [OakTree Apps](https://www.oaktreeapps.com/) in Tysons Corner, VA. We are a Flutter first software consulting company, that enjoys executing greenfield projects!
+I'm the founder and a software engineer at [OakTree Apps](https://www.oaktreeapps.com/) in Tysons Corner, VA. We are a blockchain first software consulting company, that enjoys executing greenfield projects!
 
 - 🔭 We are currently working on [stacked notification cards library](https://pub.dev/packages/stacked_notification_cards) and [dynamic slider library](https://pub.dev/packages/dynamic_slider)
 - 🧑‍💻 We love open source projects and are actively looking to collaborate on them!
